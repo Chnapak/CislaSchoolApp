@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CislaApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-start 10 -end 20 -by 2"
+    }
+  }
+}
